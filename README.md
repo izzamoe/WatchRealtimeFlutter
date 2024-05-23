@@ -18,7 +18,7 @@ WatchRealtimeFlutter adalah aplikasi yang menampilkan waktu saat ini secara real
 
 1. **Clone repositori:**
     ```bash
-    git clone https://github.com/username/WatchRealtimeFlutter.git
+    git clone https://github.com/izzamoe/WatchRealtimeFlutter.git
     cd WatchRealtimeFlutter
     ```
 
